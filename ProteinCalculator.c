@@ -1,49 +1,55 @@
-#ifndef PROTEIN_H
-#define PROTEIN_H
-// ─────────────────────────────────────────
-//  Diet types
-// ─────────────────────────────────────────
-typedef enum {
-    DIET_VEG        = 1,
-    DIET_NONVEG     = 2,
-    DIET_VEGAN      = 3,
-    DIET_EGGETARIAN = 4
-} DietType;
-// ─────────────────────────────────────────
-//  Activity levels
-// ─────────────────────────────────────────
-typedef enum {
-    ACTIVITY_SEDENTARY  = 1,  // desk job, no exercise
-    ACTIVITY_LIGHT      = 2,  // light exercise 1-3 days/week
-    ACTIVITY_MODERATE   = 3,  // moderate exercise 3-5 days/week
-    ACTIVITY_ACTIVE     = 4,  // hard exercise 6-7 days/week
-    ACTIVITY_ATHLETE    = 5   // professional athlete / bodybuilder
-} ActivityLevel;
-// ─────────────────────────────────────────
-//  Food item
-// ─────────────────────────────────────────
-typedef struct {
-    char name[32];
-    char category[16];       // "legume", "dairy", "meat", etc.
-    double protein_per_100g; // grams of protein per 100g food
-  double calories_per_100g;
-    int diet_flags;          // bitmask: VEG=1, NONVEG=2, VEGAN=4, EGG=8
-} Food;
-
-// diet_flags bitmask values
-#define FLAG_VEG    (1 << 0)
-#define FLAG_NONVEG (1 << 1)
-#define FLAG_VEGAN  (1 << 2)
-#define FLAG_EGG    (1 << 3)
-// ─────────────────────────────────────────
-//  Function declarations
-// ─────────────────────────────────────────
-double calculate_protein(double weight_kg, ActivityLevel level);
-void   show_activity_guide(void);
-void   recommend_foods(DietType diet, double protein_target);
-void   show_meal_plan(DietType diet, double protein_target);
-const char *diet_name(DietType d);
-const char *activity_name(ActivityLevel a);
- 
-#endif
- 
+Algorithm: Protein Calculator & Food Recommender
+🔹 STEP 1: Start
+Begin program execution
+🔹 STEP 2: Declare Variables
+Declare:
+weight (float)
+protein_need (float)
+activity (int)
+diet (string)
+Define a structure Food with:
+name
+protein
+calories
+type
+🔹 STEP 3: Initialize Food Data
+Create an array foods[]
+Store food items with:
+name (e.g., Paneer, Chicken)
+protein per 100g
+calories per 100g
+diet type (veg / nonveg / vegan / egg)
+🔹 STEP 4: Take User Input (Weight)
+Display: "Enter your weight"
+Read value into weight
+🔹 STEP 5: Take Activity Level
+Display options:
+Sedentary
+Light
+Moderate
+Active
+Read input into activity
+🔹 STEP 6: Calculate Protein Requirement
+IF activity = 1 → protein_need = 0.8 × weight
+ELSE IF activity = 2 → protein_need = 1.0 × weight
+ELSE IF activity = 3 → protein_need = 1.2 × weight
+ELSE IF activity = 4 → protein_need = 1.5 × weight
+ELSE:
+Print "Invalid activity"
+STOP program
+🔹 STEP 7: Display Protein Requirement
+Print: "Protein needed = X grams"
+🔹 STEP 8: Take Diet Type
+Ask user:
+veg / nonveg / vegan / egg
+Store in diet
+🔹 STEP 9: Recommend Foods
+Loop through all food items:
+FOR each food in foods[]:
+IF food.type == diet:
+Print:
+food name
+protein per 100g
+calories per 100g
+🔹 STEP 10: End Program
+Terminate program

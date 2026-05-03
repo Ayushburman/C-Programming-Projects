@@ -33,6 +33,7 @@ Light
 Moderate
 Active
 Read input into activity
+
 🔹 STEP 6: Calculate Protein Requirement
 IF activity = 1 → protein_need = 0.8 × weight
 ELSE IF activity = 2 → protein_need = 1.0 × weight

@@ -54,14 +54,4 @@ Ask user:
 veg / nonveg / vegan / egg
 Store in diet
 
-🔹 STEP 9: Recommend Foods
-Loop through all food items:
-FOR each food in foods[]:
-IF food.type == diet:
-Print:
-food name
-protein per 100g
-calories per 100g
 
-🔹 STEP 10: End Program
-Terminate program

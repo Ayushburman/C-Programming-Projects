@@ -40,7 +40,7 @@
 
 ---
 
-### 🔹 STEP 5: Take Activity Level
+###  STEP 5: Take Activity Level
 - Display options:
   - 1. Sedentary  
   - 2. Light  
@@ -51,7 +51,7 @@
 
 ---
 
-### 🔹 STEP 6: Calculate Protein Requirement
+###  STEP 6: Calculate Protein Requirement
 - If `activity == 1` → `protein_need = 0.8 × weight`
 - Else if `activity == 2` → `protein_need = 1.0 × weight`
 - Else if `activity == 3` → `protein_need = 1.2 × weight`
@@ -62,7 +62,7 @@
 
 ---
 
-### 🔹 STEP 7: Display Protein Requirement
+###  STEP 7: Display Protein Requirement
 - Print: `"Protein needed = X grams"`
 
 ---

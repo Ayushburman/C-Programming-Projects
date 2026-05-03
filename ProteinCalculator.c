@@ -26,3 +26,6 @@ typedef struct {
     char name[32];
     char category[16];       // "legume", "dairy", "meat", etc.
     double protein_per_100g; // grams of protein per 100g food
+  double calories_per_100g;
+    int diet_flags;          // bitmask: VEG=1, NONVEG=2, VEGAN=4, EGG=8
+} Food;

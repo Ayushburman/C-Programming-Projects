@@ -29,3 +29,9 @@ typedef struct {
   double calories_per_100g;
     int diet_flags;          // bitmask: VEG=1, NONVEG=2, VEGAN=4, EGG=8
 } Food;
+
+// diet_flags bitmask values
+#define FLAG_VEG    (1 << 0)
+#define FLAG_NONVEG (1 << 1)
+#define FLAG_VEGAN  (1 << 2)
+#define FLAG_EGG    (1 << 3)

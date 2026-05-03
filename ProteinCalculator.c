@@ -4,12 +4,7 @@ Begin program execution
 
 🔹 STEP 2: Declare Variables
 
-Declare:
-weight (float)
-protein_need (float)
-activity (int)
-diet (string)
-Define a structure Food with:
+
 
 name
 protein

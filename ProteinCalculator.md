@@ -1,15 +1,15 @@
-# 🥗 Protein Calculator & Food Recommender
+#  Protein Calculator & Food Recommender
 
-## 📌 Algorithm
+##  Algorithm
 
 ---
 
-### 🔹 STEP 1: Start
+###  STEP 1: Start
 - Begin program execution
 
 ---
 
-### 🔹 STEP 2: Declare Variables
+###  STEP 2: Declare Variables
 - Declare:
   - `weight` (float)
   - `protein_need` (float)
@@ -24,7 +24,7 @@
 
 ---
 
-### 🔹 STEP 3: Initialize Food Data
+###  STEP 3: Initialize Food Data
 - Create an array `foods[]`
 - Store food items with:
   - Name (e.g., Paneer, Chicken)
@@ -34,7 +34,7 @@
 
 ---
 
-### 🔹 STEP 4: Take User Input (Weight)
+###  STEP 4: Take User Input (Weight)
 - Display: `"Enter your weight"`
 - Read value into `weight`
 

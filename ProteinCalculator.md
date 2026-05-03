@@ -74,7 +74,7 @@
 
 ---
 
-### 🔹 STEP 9: Recommend Foods
+###  STEP 9: Recommend Foods
 - Loop through all food items:
 
 ```c

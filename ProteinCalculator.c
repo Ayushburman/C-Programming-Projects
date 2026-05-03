@@ -1,8 +1,4 @@
 
-🔹 STEP 4: Take User Input (Weight)
-Display: "Enter your weight"
-Read value into weight
-
 🔹 STEP 5: Take Activity Level
 Display options:
 Sedentary

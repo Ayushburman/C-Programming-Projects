@@ -10,6 +10,7 @@ protein_need (float)
 activity (int)
 diet (string)
 Define a structure Food with:
+
 name
 protein
 calories

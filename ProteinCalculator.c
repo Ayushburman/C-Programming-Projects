@@ -47,6 +47,7 @@ STOP program
   
 🔹 STEP 7: Display Protein Requirement
 Print: "Protein needed = X grams"
+  
 🔹 STEP 8: Take Diet Type
 Ask user:
 veg / nonveg / vegan / egg

@@ -1,6 +1,7 @@
 Algorithm: Protein Calculator & Food Recommender
 🔹 STEP 1: Start
 Begin program execution
+
 🔹 STEP 2: Declare Variables
 
 Declare:

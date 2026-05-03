@@ -48,6 +48,7 @@ Print: "Protein needed = X grams"
 Ask user:
 veg / nonveg / vegan / egg
 Store in diet
+
 🔹 STEP 9: Recommend Foods
 Loop through all food items:
 FOR each food in foods[]:

@@ -56,5 +56,6 @@ Print:
 food name
 protein per 100g
 calories per 100g
+
 🔹 STEP 10: End Program
 Terminate program

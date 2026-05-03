@@ -1,9 +1,6 @@
 
 
 
-🔹 STEP 3: Initialize Food Data
-Create an array foods[]
-Store food items with:
 
 name (e.g., Paneer, Chicken)
 protein per 100g

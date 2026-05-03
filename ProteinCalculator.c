@@ -35,3 +35,15 @@ typedef struct {
 #define FLAG_NONVEG (1 << 1)
 #define FLAG_VEGAN  (1 << 2)
 #define FLAG_EGG    (1 << 3)
+// ─────────────────────────────────────────
+//  Function declarations
+// ─────────────────────────────────────────
+double calculate_protein(double weight_kg, ActivityLevel level);
+void   show_activity_guide(void);
+void   recommend_foods(DietType diet, double protein_target);
+void   show_meal_plan(DietType diet, double protein_target);
+const char *diet_name(DietType d);
+const char *activity_name(ActivityLevel a);
+ 
+#endif
+ 

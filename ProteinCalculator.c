@@ -21,6 +21,7 @@ name (e.g., Paneer, Chicken)
 protein per 100g
 calories per 100g
 diet type (veg / nonveg / vegan / egg)
+
 🔹 STEP 4: Take User Input (Weight)
 Display: "Enter your weight"
 Read value into weight

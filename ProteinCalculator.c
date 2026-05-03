@@ -1,9 +1,5 @@
 
 
-name
-protein
-calories
-type
 
 🔹 STEP 3: Initialize Food Data
 Create an array foods[]

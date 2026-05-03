@@ -9,3 +9,13 @@ typedef enum {
     DIET_VEGAN      = 3,
     DIET_EGGETARIAN = 4
 } DietType;
+// ─────────────────────────────────────────
+//  Activity levels
+// ─────────────────────────────────────────
+typedef enum {
+    ACTIVITY_SEDENTARY  = 1,  // desk job, no exercise
+    ACTIVITY_LIGHT      = 2,  // light exercise 1-3 days/week
+    ACTIVITY_MODERATE   = 3,  // moderate exercise 3-5 days/week
+    ACTIVITY_ACTIVE     = 4,  // hard exercise 6-7 days/week
+    ACTIVITY_ATHLETE    = 5   // professional athlete / bodybuilder
+} ActivityLevel;

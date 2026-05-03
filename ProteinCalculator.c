@@ -42,6 +42,7 @@ ELSE IF activity = 4 → protein_need = 1.5 × weight
 ELSE:
 Print "Invalid activity"
 STOP program
+  
 🔹 STEP 7: Display Protein Requirement
 Print: "Protein needed = X grams"
 🔹 STEP 8: Take Diet Type

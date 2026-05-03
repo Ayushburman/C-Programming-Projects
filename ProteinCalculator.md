@@ -67,7 +67,7 @@
 
 ---
 
-### 🔹 STEP 8: Take Diet Type
+###  STEP 8: Take Diet Type
 - Ask user:
   - `veg / nonveg / vegan / egg`
 - Store input in `diet`

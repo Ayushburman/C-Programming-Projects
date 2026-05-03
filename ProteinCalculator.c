@@ -19,3 +19,10 @@ typedef enum {
     ACTIVITY_ACTIVE     = 4,  // hard exercise 6-7 days/week
     ACTIVITY_ATHLETE    = 5   // professional athlete / bodybuilder
 } ActivityLevel;
+// ─────────────────────────────────────────
+//  Food item
+// ─────────────────────────────────────────
+typedef struct {
+    char name[32];
+    char category[16];       // "legume", "dairy", "meat", etc.
+    double protein_per_100g; // grams of protein per 100g food

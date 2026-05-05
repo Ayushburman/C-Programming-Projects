@@ -211,3 +211,10 @@ Compare all values in score[]
 Find index with maximum score
 Store index in variable house
 
+Step 7: Display House Result
+
+If:
+house == 0 → Print "Gryffindor"
+house == 1 → Print "Slytherin"
+house == 2 → Print "Ravenclaw"
+house == 3 → Print "Hufflepuff"

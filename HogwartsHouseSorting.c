@@ -83,3 +83,8 @@ int main() {
     printf("\nQ1: You find a locked ancient door. What do you do?\n");
     printf("1. Break it open\n2. Find hidden mechanism\n3. Analyze runes\n4. Knock politely\n");
     scanf("%d", &choice);
+
+    if(choice == 1) { score[GRYFFINDOR]+=3; score[SLYTHERIN]+=1; }
+    else if(choice == 2) { score[SLYTHERIN]+=3; score[RAVENCLAW]+=1; }
+    else if(choice == 3) { score[RAVENCLAW]+=3; }
+    else { score[HUFFLEPUFF]+=3; }

@@ -218,3 +218,14 @@ house == 0 → Print "Gryffindor"
 house == 1 → Print "Slytherin"
 house == 2 → Print "Ravenclaw"
 house == 3 → Print "Hufflepuff"
+
+
+Step 8: Assign Wand
+Based on house:
+
+Gryffindor → Phoenix Feather core, Holly wood
+Slytherin → Dragon Heartstring, Yew wood
+Ravenclaw → Unicorn Hair, Willow wood
+Hufflepuff → Unicorn Hair, Oak wood
+
+Display wand details

@@ -13,3 +13,7 @@ int maxIndex(int arr[]) {
         if(arr[i] > max) {
             max = arr[i];
             idx = i;
+  }
+    }
+    return idx;
+}

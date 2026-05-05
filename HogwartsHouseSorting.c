@@ -17,3 +17,8 @@ int maxIndex(int arr[]) {
     }
     return idx;
 }
+// Wand selection
+void getWand(int house) {
+    printf("\n--- Your Wand ---\n");
+    switch(house) {
+        case GRYFFINDOR:

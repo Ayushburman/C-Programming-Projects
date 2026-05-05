@@ -111,3 +111,7 @@ int main() {
     printf("\nQ4: Choose a magical subject:\n");
     printf("1. Defense Against Dark Arts\n2. Potions\n3. Astronomy\n4. Herbology\n");
     scanf("%d", &choice);
+    if(choice == 1) score[GRYFFINDOR]+=3;
+    else if(choice == 2) score[SLYTHERIN]+=3;
+    else if(choice == 3) score[RAVENCLAW]+=3;
+    else score[HUFFLEPUFF]+=3;

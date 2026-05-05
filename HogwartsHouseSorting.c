@@ -79,3 +79,7 @@ int main() {
     printf("====================================\n");
     printf("   Welcome to the Hogwarts Quiz\n");
     printf("====================================\n");
+ // Q1
+    printf("\nQ1: You find a locked ancient door. What do you do?\n");
+    printf("1. Break it open\n2. Find hidden mechanism\n3. Analyze runes\n4. Knock politely\n");
+    scanf("%d", &choice);

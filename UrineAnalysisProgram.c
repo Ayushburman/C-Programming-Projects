@@ -67,3 +67,62 @@ if(choice == 1) score += 2;
     printf("2. No\n");
     printf("Enter choice: ");
     scanf("%d", &choice);
+
+ if(choice == 1) score += 2;    else score -= 2;    // Result    printf("\n===== RESULT =====\n");    if(score >= 8) {        printf("Your urinary health seems NORMAL.\n");    }    else if(score >= 4) {        printf("Some irregularities detected. Improve hydration and monitor symptoms.\n");    }    else {        printf("Potential problem detected.\n");        printf("⚠️ Please consult a doctor immediately.\n");    }    printf("\nFinal Score: %d\n", score);    return 0;}
+
+🧠 How It Works (Logic Overview)
+
+
+Each question reflects real urine health indicators:
+
+
+Color → hydration / blood presence
+
+
+Frequency → kidney/bladder function
+
+
+Water intake → hydration
+
+
+Burning → infection sign
+
+
+Odor → metabolic or infection issue
+
+
+Holding → bladder control
+
+
+
+
+A score system evaluates answers:
+
+
+Healthy answers → +2
+
+
+Mild concern → +1 / -1
+
+
+Serious symptom → -2 / -3
+
+
+
+
+Final interpretation:
+
+
+≥ 8 → Normal
+
+
+4–7 → Mild concern
+
+
+< 4 → Possible issue → Doctor recommended
+
+
+
+
+
+

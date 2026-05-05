@@ -35,3 +35,13 @@ void getWand(int house) {
             break;
     }
 }
+// Pet selection
+void getPet(int house) {
+    printf("\n--- Your Magical Pet ---\n");
+    switch(house) {
+        case GRYFFINDOR:
+            printf("A loyal Owl\n");
+            break;
+        case SLYTHERIN:
+            printf("A cunning Snake\n");
+            break;

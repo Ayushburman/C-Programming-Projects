@@ -88,3 +88,8 @@ int main() {
     else if(choice == 2) { score[SLYTHERIN]+=3; score[RAVENCLAW]+=1; }
     else if(choice == 3) { score[RAVENCLAW]+=3; }
     else { score[HUFFLEPUFF]+=3; }
+ // Q2
+    printf("\nQ2: A friend cheats in exam. You...\n");
+    printf("1. Confront\n2. Ignore\n3. Understand reason\n4. Help them improve later\n");
+    scanf("%d", &choice);
+

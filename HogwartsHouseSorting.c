@@ -203,3 +203,6 @@ Option 2 → Slytherin +3, Ravenclaw +1
 Option 3 → Ravenclaw +3
 Option 4 → Hufflepuff +3
 
+5.4 Repeat
+Repeat steps for all questions
+

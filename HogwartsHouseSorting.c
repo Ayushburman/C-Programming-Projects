@@ -93,3 +93,8 @@ int main() {
     printf("1. Confront\n2. Ignore\n3. Understand reason\n4. Help them improve later\n");
     scanf("%d", &choice);
 
+    if(choice == 1) score[GRYFFINDOR]+=3;
+    else if(choice == 2) score[SLYTHERIN]+=2;
+    else if(choice == 3) score[RAVENCLAW]+=3;
+    else score[HUFFLEPUFF]+=3;
+

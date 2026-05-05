@@ -197,3 +197,9 @@ Based on selected option:
 Increase score of one or more houses
 Use weighted scoring (e.g., +3 primary, +1 secondary)
 
+Example:
+Option 1 → Gryffindor +3, Slytherin +1
+Option 2 → Slytherin +3, Ravenclaw +1
+Option 3 → Ravenclaw +3
+Option 4 → Hufflepuff +3
+

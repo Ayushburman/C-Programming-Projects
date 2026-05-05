@@ -46,3 +46,8 @@ if(choice == 1) score += 2;
     printf("3. Yes\n");
     printf("Enter choice: ");
     scanf("%d", &choice);
+
+
+    if(choice == 1) score += 2;
+    else if(choice == 2) score -= 1;
+    else score -= 3;

@@ -53,4 +53,13 @@ void getPet(int house) {
             break;
     }
 }
-
+// Patronus
+void getPatronus(int house) {
+    printf("\n--- Your Patronus ---\n");
+    switch(house) {
+        case GRYFFINDOR:
+            printf("Stag\n");
+            break;
+        case SLYTHERIN:
+            printf("Serpent\n");
+            break;

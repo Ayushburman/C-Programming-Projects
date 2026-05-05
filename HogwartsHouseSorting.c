@@ -98,3 +98,7 @@ int main() {
     else if(choice == 3) score[RAVENCLAW]+=3;
     else score[HUFFLEPUFF]+=3;
 
+// Q3
+    printf("\nQ3: What motivates you most?\n");
+    printf("1. Glory\n2. Power\n3. Knowledge\n4. Loyalty\n");
+    scanf("%d", &choice);

@@ -51,3 +51,10 @@ if(choice == 1) score += 2;
     if(choice == 1) score += 2;
     else if(choice == 2) score -= 1;
     else score -= 3;
+
+// Q5: Odor
+    printf("\n5. Urine odor?\n");
+    printf("1. Normal\n");
+    printf("2. Strong smell\n");
+    printf("Enter choice: ");
+    scanf("%d", &choice);

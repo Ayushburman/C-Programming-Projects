@@ -177,5 +177,11 @@ Step 3: Declare Variables
 Declare an integer array score[4] and initialize all values to 0
 Declare variable choice to store user input
 Declare variable house to store final result
+
 Step 4: Display Welcome Message
+
+Print:
+
+Title of the quiz
+Instructions for selecting options
 

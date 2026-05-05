@@ -161,3 +161,109 @@ int main() {
     return 0;
 }
 ------------------------------------ALGO-----------------------------------------
+Algorithm: Hogwarts Sorting Quiz System
+Objective
+
+Create a quiz-based system that:
+
+Asks multiple-choice questions
+Assigns hidden scores to Hogwarts houses
+Determines the final house
+Recommends wand, pet, and patronus
+Step 1: Start
+
+Begin program execution
+
+Step 2: Define Constants
+
+Define integer constants to represent houses:
+
+GRYFFINDOR = 0
+SLYTHERIN = 1
+RAVENCLAW = 2
+HUFFLEPUFF = 3
+Step 3: Declare Variables
+Declare an integer array score[4] and initialize all values to 0
+Declare variable choice to store user input
+Declare variable house to store final result
+Step 4: Display Welcome Message
+
+Print:
+
+Title of the quiz
+Instructions for selecting options
+Step 5: Ask Questions and Assign Scores
+
+For each question:
+
+5.1 Display Question
+Show question with 4 options
+5.2 Take Input
+Read user choice using input function
+5.3 Assign Scores (Hidden Logic)
+Based on selected option:
+Increase score of one or more houses
+Use weighted scoring (e.g., +3 primary, +1 secondary)
+
+Example:
+
+Option 1 → Gryffindor +3, Slytherin +1
+Option 2 → Slytherin +3, Ravenclaw +1
+Option 3 → Ravenclaw +3
+Option 4 → Hufflepuff +3
+5.4 Repeat
+Repeat steps for all questions
+Step 6: Determine Final House
+Compare all values in score[]
+Find index with maximum score
+Store index in variable house
+Step 7: Display House Result
+
+If:
+
+house == 0 → Print "Gryffindor"
+house == 1 → Print "Slytherin"
+house == 2 → Print "Ravenclaw"
+house == 3 → Print "Hufflepuff"
+Step 8: Assign Wand
+
+Based on house:
+
+Gryffindor → Phoenix Feather core, Holly wood
+Slytherin → Dragon Heartstring, Yew wood
+Ravenclaw → Unicorn Hair, Willow wood
+Hufflepuff → Unicorn Hair, Oak wood
+
+Display wand details
+
+Step 9: Assign Pet
+
+Based on house:
+
+Gryffindor → Owl
+Slytherin → Snake
+Ravenclaw → Raven
+Hufflepuff → Cat
+
+Display pet
+
+Step 10: Assign Patronus
+
+Based on house:
+
+Gryffindor → Stag
+Slytherin → Serpent
+Ravenclaw → Eagle
+Hufflepuff → Badger
+
+Display patronus
+
+Step 11: Display Final Message
+
+Print:
+
+Summary of results
+Thank you message
+Step 12: End
+
+Terminate program execution

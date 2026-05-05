@@ -238,3 +238,14 @@ Slytherin → Snake
 Ravenclaw → Raven
 Hufflepuff → Cat
 Display pet
+
+Step 10: Assign Patronus
+
+Based on house:
+
+Gryffindor → Stag
+Slytherin → Serpent
+Ravenclaw → Eagle
+Hufflepuff → Badger
+
+Display patronus

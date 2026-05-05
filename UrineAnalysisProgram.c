@@ -58,3 +58,12 @@ if(choice == 1) score += 2;
     printf("2. Strong smell\n");
     printf("Enter choice: ");
     scanf("%d", &choice);
+if(choice == 1) score += 2;
+    else score -= 1;
+
+    // Q6: Ability to hold urine
+    printf("\n6. Can you hold urine normally?\n");
+    printf("1. Yes\n");
+    printf("2. No\n");
+    printf("Enter choice: ");
+    scanf("%d", &choice);

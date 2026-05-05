@@ -35,3 +35,14 @@ int main() {
     printf("3. More than 5 Liters\n");
     printf("Enter choice: ");
     scanf("%d", &choice);
+
+if(choice == 1) score += 2;
+    else score -= 1;
+
+    // Q4: Burning sensation
+    printf("\n4. Do you feel burning while urinating?\n");
+    printf("1. No\n");
+    printf("2. Sometimes\n");
+    printf("3. Yes\n");
+    printf("Enter choice: ");
+    scanf("%d", &choice);

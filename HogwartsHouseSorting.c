@@ -30,3 +30,8 @@ void getWand(int house) {
         case RAVENCLAW:
             printf("Core: Unicorn Hair\nWood: Willow\nLength: 10.75 inches\n");
             break;
+        case HUFFLEPUFF:
+            printf("Core: Unicorn Hair\nWood: Oak\nLength: 11.25 inches\n");
+            break;
+    }
+}

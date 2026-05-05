@@ -121,3 +121,9 @@ int main() {
     printf("\nQ5: You see a creature in danger:\n");
     printf("1. Jump in immediately\n2. Plan rescue\n3. Study first\n4. Call others\n");
     scanf("%d", &choice);
+
+
+    if(choice == 1) score[GRYFFINDOR]+=3;
+    else if(choice == 2) score[SLYTHERIN]+=2;
+    else if(choice == 3) score[RAVENCLAW]+=3;
+    else score[HUFFLEPUFF]+=3;

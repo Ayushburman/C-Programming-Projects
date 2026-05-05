@@ -63,3 +63,11 @@ void getPatronus(int house) {
         case SLYTHERIN:
             printf("Serpent\n");
             break;
+        case RAVENCLAW:
+            printf("Eagle\n");
+            break;
+        case HUFFLEPUFF:
+            printf("Badger\n");
+            break;
+    }
+}

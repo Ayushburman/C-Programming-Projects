@@ -22,3 +22,11 @@ void getWand(int house) {
     printf("\n--- Your Wand ---\n");
     switch(house) {
         case GRYFFINDOR:
+  printf("Core: Phoenix Feather\nWood: Holly\nLength: 11 inches\n");
+            break;
+        case SLYTHERIN:
+            printf("Core: Dragon Heartstring\nWood: Yew\nLength: 12.5 inches\n");
+            break;
+        case RAVENCLAW:
+            printf("Core: Unicorn Hair\nWood: Willow\nLength: 10.75 inches\n");
+            break;

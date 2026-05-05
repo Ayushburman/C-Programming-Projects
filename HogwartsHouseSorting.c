@@ -71,3 +71,11 @@ void getPatronus(int house) {
             break;
     }
 }
+int main() {
+
+    int score[4] = {0};
+    int choice;
+
+    printf("====================================\n");
+    printf("   Welcome to the Hogwarts Quiz\n");
+    printf("====================================\n");

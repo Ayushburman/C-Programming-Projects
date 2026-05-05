@@ -25,3 +25,13 @@ int main() {
     printf("3. More than 10\n");
     printf("Enter choice: ");
     scanf("%d", &choice);
+ if(choice == 1) score += 2;
+    else score -= 1;
+
+    // Q3: Water intake
+    printf("\n3. How much water do you drink daily?\n");
+    printf("1. 2-3 Liters (Normal)\n");
+    printf("2. Less than 1 Liter\n");
+    printf("3. More than 5 Liters\n");
+    printf("Enter choice: ");
+    scanf("%d", &choice);

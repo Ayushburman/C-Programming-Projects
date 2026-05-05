@@ -18,3 +18,10 @@ int main() {
   if(choice == 1) score += 2;
     else if(choice == 2) score += 1;
     else score -= 2;
+ // Q2: Frequency
+    printf("\n2. How many times do you urinate per day?\n");
+    printf("1. 4-7 times (Normal)\n");
+    printf("2. Less than 3\n");
+    printf("3. More than 10\n");
+    printf("Enter choice: ");
+    scanf("%d", &choice);

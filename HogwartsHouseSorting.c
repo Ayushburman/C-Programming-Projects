@@ -254,3 +254,7 @@ Step 11: Display Final Message
 Print:
 Summary of results
 Thank you message
+
+Step 12: End
+
+Terminate program execution

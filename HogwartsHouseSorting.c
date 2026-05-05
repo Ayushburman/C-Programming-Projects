@@ -192,4 +192,8 @@ For each question:
 Show question with 4 options
 5.2 Take Input
 Read user choice using input function
+5.3 Assign Scores (Hidden Logic)
+Based on selected option:
+Increase score of one or more houses
+Use weighted scoring (e.g., +3 primary, +1 secondary)
 

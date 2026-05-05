@@ -184,4 +184,12 @@ Print:
 
 Title of the quiz
 Instructions for selecting options
+Step 5: Ask Questions and Assign Scores
+
+For each question:
+
+5.1 Display Question
+Show question with 4 options
+5.2 Take Input
+Read user choice using input function
 

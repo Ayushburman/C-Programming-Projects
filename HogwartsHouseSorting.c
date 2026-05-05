@@ -160,3 +160,22 @@ int main() {
 
     return 0;
 }
+------------------------------------ALGO-----------------------------------------
+Step 1: Start
+
+Begin program execution
+
+Step 2: Define Constants
+
+Define integer constants to represent houses:
+
+GRYFFINDOR = 0
+SLYTHERIN = 1
+RAVENCLAW = 2
+HUFFLEPUFF = 3
+Step 3: Declare Variables
+Declare an integer array score[4] and initialize all values to 0
+Declare variable choice to store user input
+Declare variable house to store final result
+Step 4: Display Welcome Message
+

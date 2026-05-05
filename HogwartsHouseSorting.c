@@ -127,3 +127,28 @@ int main() {
     else if(choice == 2) score[SLYTHERIN]+=2;
     else if(choice == 3) score[RAVENCLAW]+=3;
     else score[HUFFLEPUFF]+=3;
+
+ int house = maxIndex(score);
+
+    printf("\n====================================\n");
+    printf("         Your Results\n");
+    printf("====================================\n");
+
+    if(house == GRYFFINDOR)
+        printf("House: Gryffindor\n");
+    else if(house == SLYTHERIN)
+        printf("House: Slytherin\n");
+    else if(house == RAVENCLAW)
+        printf("House: Ravenclaw\n");
+    else
+        printf("House: Hufflepuff\n");
+
+    getWand(house);
+    getPet(house);
+    getPatronus(house);
+
+    printf("\n====================================\n");
+    printf(" Thank you for playing!\n");
+
+    return 0;
+}

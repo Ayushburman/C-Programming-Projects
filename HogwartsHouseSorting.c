@@ -206,3 +206,8 @@ Option 4 → Hufflepuff +3
 5.4 Repeat
 Repeat steps for all questions
 
+Step 6: Determine Final House
+Compare all values in score[]
+Find index with maximum score
+Store index in variable house
+

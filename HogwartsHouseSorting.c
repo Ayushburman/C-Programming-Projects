@@ -102,3 +102,8 @@ int main() {
     printf("\nQ3: What motivates you most?\n");
     printf("1. Glory\n2. Power\n3. Knowledge\n4. Loyalty\n");
     scanf("%d", &choice);
+
+    if(choice == 1) score[GRYFFINDOR]+=3;
+    else if(choice == 2) score[SLYTHERIN]+=3;
+    else if(choice == 3) score[RAVENCLAW]+=3;
+    else score[HUFFLEPUFF]+=3;

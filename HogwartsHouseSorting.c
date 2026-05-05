@@ -45,3 +45,12 @@ void getPet(int house) {
         case SLYTHERIN:
             printf("A cunning Snake\n");
             break;
+        case RAVENCLAW:
+            printf("A wise Raven\n");
+            break;
+        case HUFFLEPUFF:
+            printf("A friendly Cat\n");
+            break;
+    }
+}
+

@@ -229,3 +229,12 @@ Ravenclaw → Unicorn Hair, Willow wood
 Hufflepuff → Unicorn Hair, Oak wood
 
 Display wand details
+
+Step 9: Assign Pet
+
+Based on house:
+Gryffindor → Owl
+Slytherin → Snake
+Ravenclaw → Raven
+Hufflepuff → Cat
+Display pet

@@ -114,4 +114,5 @@ str2 = "Burman"
 {
 tech 
 13
+14
 

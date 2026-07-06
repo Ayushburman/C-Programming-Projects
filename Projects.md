@@ -7,8 +7,7 @@ jhih
 bhbjh
 hhh
 njnjh
-kjiji
-huhuh
+kj
 nknjj
 bjjhj
 jjhk

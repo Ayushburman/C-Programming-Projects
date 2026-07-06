@@ -10,7 +10,5 @@ njnjh
 
 khij
 n
-bbhb
-hghgj
 gvghg
 hbhg

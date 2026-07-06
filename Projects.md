@@ -10,8 +10,6 @@ njnjh
 kj
 nkn
 
-nhuh
-kjijk
 jhuhi
 hhuuh
 jhuh

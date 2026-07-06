@@ -9,10 +9,7 @@ hhh
 njnjh
 kj
 n
-nhij
-jhuh
-niji
-bhgg
+nh
 hggh
 khij
 nbjh

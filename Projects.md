@@ -7,10 +7,7 @@ jhih
 bhbjh
 hhh
 njnjh
-kj
-n
-nh
-hggh
+
 khij
 nbjh
 hbbh

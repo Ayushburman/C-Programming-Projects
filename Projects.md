@@ -6,5 +6,3 @@ jbuh
 jhih
 
 njnjh
-
-khij

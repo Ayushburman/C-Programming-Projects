@@ -9,9 +9,7 @@ hhh
 njnjh
 
 khij
-nbjh
-hbbh
-hgug
+n
 bbhb
 hghgj
 gvghg

@@ -8,11 +8,7 @@ bhbjh
 hhh
 njnjh
 kj
-nkn
-
-jhuhi
-hhuuh
-jhuh
+n
 nhij
 jhuh
 niji

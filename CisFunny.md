@@ -1,4 +1,4 @@
-Here is a comprehensive collection of **C 
+Here is a comprehensive collection of
 
 # 1. Fundamental Facts
 

@@ -10,6 +10,7 @@ ju
 kjjai
 jha
 jhh
+khijs
 jija
 njnjn
 jij

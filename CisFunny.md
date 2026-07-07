@@ -27,6 +27,7 @@
 
 ---
 
+
 # 3. Pointer Facts
 
 * Pointers store **addresses**, not values.

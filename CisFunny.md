@@ -1,4 +1,4 @@
-Here is a comprehensive collection of
+Here is a comprehensive collection
 
 # 1. Fundamental Facts
 

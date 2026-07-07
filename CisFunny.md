@@ -1,4 +1,4 @@
-Here is a comprehensive collection of **C Programming Tips, Tricks, Facts, and Interview Nuggets**, organized by
+Here is a comprehensive collection of **C Programming Tips, Tricks, Facts, and Interview Nuggets**, organize
 
 ---
 

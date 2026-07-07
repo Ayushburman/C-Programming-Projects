@@ -1,4 +1,4 @@
-Here is a comprehensive collection of **C Programming 
+Here is a comprehensive collection of **C 
 
 # 1. Fundamental Facts
 

@@ -6,8 +6,7 @@ njni
 jbh
 jiji
 njhuh
-ju
-niahia
+
 kjjai
 jhajkjs
 nihi

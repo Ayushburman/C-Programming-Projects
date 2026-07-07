@@ -1,4 +1,4 @@
-Here is a 
+Here is
 # 1. Fundamental Facts
 
 * C was developed by Dennis Ritchie in **1972**.

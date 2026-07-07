@@ -8,6 +8,7 @@
 * C is a **procedural** programming language.
 * C is **case-sensitive**.
 * Every C program begins execution from `main()`.
+* 
 
 ---
 

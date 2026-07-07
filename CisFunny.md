@@ -1,6 +1,4 @@
-Here is a comprehensive collection of **C Programming Tips, Tricks, Facts,
-
----
+Here is a comprehensive collection of **C Programming Tips, Tricks, 
 
 # 1. Fundamental Facts
 

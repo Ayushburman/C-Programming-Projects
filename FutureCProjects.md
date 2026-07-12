@@ -12,3 +12,4 @@ jjijum
 mimim
 jjiji
 mimik
+niniok

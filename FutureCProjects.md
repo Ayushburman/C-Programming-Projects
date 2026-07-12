@@ -11,4 +11,3 @@ jnuj
 niniok
 ijkj
 mnjnun
-mjijm

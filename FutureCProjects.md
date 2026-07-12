@@ -20,6 +20,3 @@ kniji
 lkkinni
 knij
 knij
-,o,l
-jnin
-kmiko

@@ -9,9 +9,6 @@ mikim
 kmij
 jnuj
 jjijum
-mimim
-jjiji
-mimik
 niniok
 ijkj
 mnjnun

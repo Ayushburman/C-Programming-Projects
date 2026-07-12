@@ -15,6 +15,7 @@ mimik
 niniok
 ijkj
 mjijm
+kniji
 lkkinni
 knij
 knij

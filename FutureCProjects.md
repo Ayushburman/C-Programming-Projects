@@ -11,3 +11,4 @@ jnuj
 jjijum
 mimim
 jjiji
+mimik

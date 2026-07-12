@@ -14,4 +14,3 @@ mnjnun
 mjijm
 kniji
 lkkinni
-knij

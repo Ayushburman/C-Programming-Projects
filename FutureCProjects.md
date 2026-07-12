@@ -7,5 +7,4 @@ kmkmk
 momok
 mikim
 kmij
-jnuj
-niniok
+jnu

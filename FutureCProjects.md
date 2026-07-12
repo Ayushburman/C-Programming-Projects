@@ -16,6 +16,7 @@ niniok
 ijkj
 mjijm
 lkkinni
+knij
 ,o,l
 jnin
 kmiko

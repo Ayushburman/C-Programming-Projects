@@ -13,4 +13,3 @@ ijkj
 mnjnun
 mjijm
 kniji
-lkkinni

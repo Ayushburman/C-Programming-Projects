@@ -8,7 +8,6 @@ momok
 mikim
 kmij
 jnuj
-jjijum
 niniok
 ijkj
 mnjnun

@@ -5,5 +5,4 @@ km
 kmkm
 kmkmk
 momok
-mikim
-kmij
+miki

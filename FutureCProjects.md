@@ -12,4 +12,3 @@ niniok
 ijkj
 mnjnun
 mjijm
-kniji

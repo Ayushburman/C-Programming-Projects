@@ -57,4 +57,5 @@ As internet privacy concerns and network outtages grow, local-first, peer-to-pee
 Which of these 
 domains—AI, 
 WebAssembly,
-Security, Hardware Emulation, or Networking—aligns most with what you want to learn next?
+Security,
+Hardware Emulation, or Networking—aligns most with what you want to learn next?

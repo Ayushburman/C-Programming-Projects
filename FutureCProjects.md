@@ -19,4 +19,3 @@ mjijm
 kniji
 lkkinni
 knij
-knij

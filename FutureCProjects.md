@@ -4,4 +4,3 @@ moko
 km
 kmkm
 kmkmk
-momo

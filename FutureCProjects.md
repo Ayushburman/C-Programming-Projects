@@ -17,6 +17,7 @@ ijkj
 mjijm
 lkkinni
 knij
+knij
 ,o,l
 jnin
 kmiko

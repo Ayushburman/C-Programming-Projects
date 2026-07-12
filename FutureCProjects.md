@@ -1,3 +1,2 @@
 
 misd
-moko

@@ -10,4 +10,3 @@ kmij
 jnuj
 niniok
 ijkj
-mnjnun

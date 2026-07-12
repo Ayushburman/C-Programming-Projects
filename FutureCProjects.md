@@ -1,5 +1,3 @@
 
 misd
 moko
-km
-km

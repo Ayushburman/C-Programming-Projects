@@ -9,4 +9,3 @@ mikim
 kmij
 jnuj
 niniok
-ijkj
